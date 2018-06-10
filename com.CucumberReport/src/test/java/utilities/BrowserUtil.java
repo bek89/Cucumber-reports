@@ -8,6 +8,8 @@ for(String name:names){
 
 	System.out.println(name);
    System.out.println("Hi how are you " + name);
+   System.out.println("This is me");
+
 }
 
 }
