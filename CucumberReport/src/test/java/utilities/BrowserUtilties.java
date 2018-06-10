@@ -7,7 +7,7 @@ public static void main(String []args){
 	for(int i=0;i<names.length;i++){
 		System.out.println(names[i]);
 	   System.out.println("I will not work on weekends");
-	   System.out.println(names + "will work on weekends because he has lot to do");
+	   System.out.println(names + "will work on weekends because he has lot to do lekegin kdsflksldfnkdjnd");
 	}
 }
 
