@@ -7,7 +7,7 @@ public static void main(String []args){
 	for(int i=0;i<names.length;i++){
 		System.out.println(names[i]);
 	   System.out.println(names + "will work on weekends because he has lot to do lekegin kdsflksldfnkdjnd");
-	    
+	    System.out.println("Today im going to New York");
 	
 	}
 }
