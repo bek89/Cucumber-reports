@@ -11,7 +11,7 @@ public static void main(String []args){
 	 
 	    //im going to somewhere
 	
-	// would you like to join me?
+	// would you likeffvfv to join me fngkdfngkfd?
 	
 	
 	}
