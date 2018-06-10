@@ -8,6 +8,11 @@ public static void main(String []args){
 		System.out.println(names[i]);
 	   System.out.println(names + "will work on weekends because he has lot to do lekegin kdsflksldfnkdjnd");
 	    System.out.println("Today im going to New York");
+	 
+	    //im going to somewhere
+	
+	// would you like to join me?
+	
 	
 	}
 }
