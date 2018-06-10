@@ -1,13 +1,8 @@
 package stepdefinition;
 
 import org.junit.Assert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-
 import cucumber.api.java.en.Given;
-import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import pages.FacebookPages;
 import utilities.BrowserDriver;
@@ -16,9 +11,7 @@ import utilities.ConfigReader;
 public class TestClass {
 
 	public static FacebookPages fPages=new FacebookPages();
-	
-	
-	
+
 	WebDriver driver= null;
 	@Given("^User is on Home Page$")
 public void user_is_on_Home_Page() throws Throwable {
