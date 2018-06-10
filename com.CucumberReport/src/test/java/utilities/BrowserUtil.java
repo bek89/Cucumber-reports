@@ -1,21 +1,15 @@
 package utilities;
 
 public class BrowserUtil {
+public static void main (String[]args){
+	
+String [] names={"Ali","Vali", "Gani","Soli", "Said" ,"Qani" };
+for(String name:names){
 
-			//Lalaland ga boramiz
-	}
+	System.out.println(name);
+}
 
-/*
-
-
-bfjibvndvnskdnksdnfksdfhfcn diojvklsklsdncklsdn   kdnvkksdncjksdnc
-nkknvskdnsd
- dlmvlksnvksd
-
+}
 
 
-
-
-
-
-*/
+}
